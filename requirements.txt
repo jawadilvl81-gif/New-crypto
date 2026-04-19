@@ -1,6 +1,5 @@
 python-telegram-bot==21.3
 ccxt==4.3.77
-pandas==2.2.1
 numpy==1.26.4
 aiohttp==3.9.3
 python-dotenv==1.0.1
