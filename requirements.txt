@@ -1,6 +1,7 @@
 python-telegram-bot==21.3
 ccxt==4.3.77
-numpy==1.26.4
 aiohttp==3.9.3
 python-dotenv==1.0.1
 requests==2.31.0
+pandas>=2.0.0
+numpy>=1.23.0
